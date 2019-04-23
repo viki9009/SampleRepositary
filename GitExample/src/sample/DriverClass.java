@@ -7,6 +7,8 @@ public class DriverClass {
 		System.out.println("Hello program1");
 		
 		System.out.println("Hello program Merging Concept");
+		
+		System.out.println("Hello program Merging1 Concept");
 	}
 
 }
