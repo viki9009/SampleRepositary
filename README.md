@@ -1,0 +1,2 @@
+# SampleRepositary
+Merging concept
