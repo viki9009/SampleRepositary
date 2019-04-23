@@ -6,7 +6,9 @@ public class DriverClass {
 		// TODO Auto-generated method stub
 		System.out.println("Hello program1");
 		
-		System.out.println("Hello program2 Merging Concept");
+		System.out.println("Hello program Merging Concept");
+		
+		System.out.println("Hello program Merging1 Concept");
 	}
 
 }
